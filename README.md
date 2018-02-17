@@ -1,13 +1,13 @@
 # ExpandArcButton
 A unique button designed inspired by CS:GO's buy menu
 
-![simulator screen shot - iphone 8 plus - 2018-02-17 at 05 58 40](https://user-images.githubusercontent.com/11773312/36341743-ef522288-13a7-11e8-8f05-dcb18bc00cc0.png)
-![simulator screen shot - iphone 8 plus - 2018-02-17 at 05 59 08](https://user-images.githubusercontent.com/11773312/36341744-ef6a4d4a-13a7-11e8-9235-016a0db4b775.png)
-![simulator screen shot - iphone 8 plus - 2018-02-17 at 05 59 09](https://user-images.githubusercontent.com/11773312/36341745-ef815490-13a7-11e8-81d5-7e8e3f63a0aa.png)
-![simulator screen shot - iphone 8 plus - 2018-02-17 at 05 59 22](https://user-images.githubusercontent.com/11773312/36341746-ef983034-13a7-11e8-84dd-d5ab8303c485.png)
-![simulator screen shot - iphone 8 plus - 2018-02-17 at 05 59 50](https://user-images.githubusercontent.com/11773312/36341747-efae711e-13a7-11e8-8c33-07b49bd817e2.png)
-![simulator screen shot - iphone 8 plus - 2018-02-17 at 06 00 13](https://user-images.githubusercontent.com/11773312/36341748-efd83b02-13a7-11e8-9159-d823a52b3080.png)
-![simulator screen shot - iphone 8 plus - 2018-02-17 at 06 00 15](https://user-images.githubusercontent.com/11773312/36341749-eff7b860-13a7-11e8-804b-c6bde6ebae98.png)
+
+![screen shot 2018-02-17 at 6 12 41 am](https://user-images.githubusercontent.com/11773312/36341864-aa4aaf14-13a9-11e8-8445-9c5255055897.png)
+![screen shot 2018-02-17 at 6 12 33 am](https://user-images.githubusercontent.com/11773312/36341865-aa60aa1c-13a9-11e8-92e0-eb273497cb07.png)
+![screen shot 2018-02-17 at 6 12 27 am](https://user-images.githubusercontent.com/11773312/36341866-aa779b00-13a9-11e8-9a40-17fc26549276.png)
+![screen shot 2018-02-17 at 6 12 05 am](https://user-images.githubusercontent.com/11773312/36341867-aa8de716-13a9-11e8-85c9-fc3b04a8fcb6.png)
+![screen shot 2018-02-17 at 6 11 53 am](https://user-images.githubusercontent.com/11773312/36341868-aaa46964-13a9-11e8-8763-f401206e4d75.png)
+![screen shot 2018-02-17 at 6 11 45 am](https://user-images.githubusercontent.com/11773312/36341869-aabb50c0-13a9-11e8-90ca-6b407d96f362.png)
 
 
 Essentially a UIButton with customizable CALayers, including built in arc Bezier path calculators, approximizer functions that calculate the best fitting CATextLayer frame bounded by the subbutton arcs, configurable CALayer animations (comes with  default animations for CATextLayer/CAShapeLayer).  Sofar I have tooled it to take into account 6 total subbuttons.
