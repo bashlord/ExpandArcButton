@@ -1,6 +1,8 @@
 # ExpandArcButton
 A unique button designed inspired by CS:GO's buy menu
 
+Tap on the center button and watch the subbuttons transition outwards.  Tap the center/subbutton and watch them contract back into place.
+
 
 ![screen shot 2018-02-17 at 6 12 41 am](https://user-images.githubusercontent.com/11773312/36341864-aa4aaf14-13a9-11e8-8445-9c5255055897.png)
 ![screen shot 2018-02-17 at 6 12 33 am](https://user-images.githubusercontent.com/11773312/36341865-aa60aa1c-13a9-11e8-92e0-eb273497cb07.png)
