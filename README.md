@@ -14,4 +14,6 @@ Tap on the center button and watch the subbuttons transition outwards.  Tap the 
 
 Essentially a UIButton with customizable CALayers, including built in arc Bezier path calculators, approximizer functions that calculate the best fitting CATextLayer frame bounded by the subbutton arcs, configurable CALayer animations (comes with  default animations for CATextLayer/CAShapeLayer).  Sofar I have tooled it to take into account 6 total subbuttons.
 
+There is documentation in the commenting itself, so start off in ViewController, and make your way downtown.
+
 Dependancies: RxCocoa, RxSwift, RxGesture
